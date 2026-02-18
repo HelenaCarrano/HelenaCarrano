@@ -4,22 +4,22 @@ I'm Helena, a BI & Data Analyst from Brazil 🇧🇷
 Turning data into decisions and processes into automation.
 
 
-## 🚀 Stack
+##  Stack
 Power BI • DAX • SQL • Python • Java • APIs • Excel • Git
 
 
-##  💼 What I do
- - Dashboards & KPIs  
- - Automations & integrations  
- - Sales/marketing analytics  
- - Data modeling & business insights  
+##   What I do
+📊 Dashboards & KPIs  
+⚙️ Automations & integrations  
+📈 Sales/marketing analytics  
+🧠 Data modeling & business insights  
 
 
-## 📚 Currently learning
+##  Currently learning
 Java • Spring Boot • Data Engineering • System Design
 
 
-## ✨ Fun facts
+##  Fun facts
 I like studying trends on social media + posting content  
 
 
